@@ -45,7 +45,8 @@ A10,T1003,300.00
 ## Running the Application
 
 1. Input the File Path: When prompted, enter the path to your CSV file containing transfer data:<br>
-![image](https://github.com/user-attachments/assets/6e216a29-d674-4269-bc1e-197ef4a0423a)
+![image](https://github.com/user-attachments/assets/fb0385f9-9ad5-475d-9e19-6a039e5dc7ce)
+
 
 
 2. View the Output: After processing the file, the application outputs the total commission for each account.<br>
@@ -59,15 +60,16 @@ A11,10: Account A11 is charged a total commission of 10.
 
 ## Handling Errors
 
-- Invalid Transfer Amount: If a line in the CSV contains an invalid transfer amount, the application will display a warning and 
-continue processing the remaining lines.
--- Invalid transfer amount: <amount>
+- Invalid Transfer Amount: If a line in the CSV contains an invalid transfer amount, the application will display a warning and continue processing the remaining lines.<br>
+![image](https://github.com/user-attachments/assets/dd155a65-46e0-4b72-a47e-ce06de1d42eb)
+
 
 - Invalid Structure: If a line in the CSV file contains an invalid structure, such as using a comma instead of a dot (e.g., `A10,T1000,100,00`), 
 the application will ignore this line, and continue processing the remaining lines.
 
-- File Not Found: If the provided file path does not exist, the application will notify the user.
-File not found: <file_path>
+- File Not Found: If the provided file path does not exist, the application will notify the user.<br>
+![image](https://github.com/user-attachments/assets/1678c824-42ec-4233-b7b4-c6e30caae5ff)
+
 
 ## Code Structure
 
