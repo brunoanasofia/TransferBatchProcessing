@@ -45,12 +45,12 @@ A10,T1003,300.00
 ## Running the Application
 
 1. Input the File Path: When prompted, enter the path to your CSV file containing transfer data:<br>
-Please enter the path to the transfers file:
+![image](https://github.com/user-attachments/assets/6e216a29-d674-4269-bc1e-197ef4a0423a)
+
 
 2. View the Output: After processing the file, the application outputs the total commission for each account.<br>
-===> @TransferBatch path/to/your/transfers.csv<br>
-A10,30<br>
-A11,10
+![image](https://github.com/user-attachments/assets/348e65c7-ed13-4b16-8914-4727d0e92755)
+
 
 ## Output Explanation
 
