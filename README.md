@@ -36,10 +36,10 @@ The application expects a CSV file with the following structure:
 
 <Account_ID>,<Transfer_ID>,<Total_Transfer_Amount>
 
-Example CSV Input
-A10,T1000,100.00
-A11,T1001,100.00
-A10,T1002,200.00
+Example CSV Input<br>
+A10,T1000,100.00<br>
+A11,T1001,100.00<br>
+A10,T1002,200.00<br>
 A10,T1003,300.00
 
 ## Running the Application
