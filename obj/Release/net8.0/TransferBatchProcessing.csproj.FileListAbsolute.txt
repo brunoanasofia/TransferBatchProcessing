@@ -1,0 +1,14 @@
+C:\Users\bruno.amaral\source\repos\TransferBatchProcessing\TransferBatchProcessing\bin\Release\net8.0\TransferBatchProcessing.exe
+C:\Users\bruno.amaral\source\repos\TransferBatchProcessing\TransferBatchProcessing\bin\Release\net8.0\TransferBatchProcessing.deps.json
+C:\Users\bruno.amaral\source\repos\TransferBatchProcessing\TransferBatchProcessing\bin\Release\net8.0\TransferBatchProcessing.runtimeconfig.json
+C:\Users\bruno.amaral\source\repos\TransferBatchProcessing\TransferBatchProcessing\bin\Release\net8.0\TransferBatchProcessing.dll
+C:\Users\bruno.amaral\source\repos\TransferBatchProcessing\TransferBatchProcessing\bin\Release\net8.0\TransferBatchProcessing.pdb
+C:\Users\bruno.amaral\source\repos\TransferBatchProcessing\TransferBatchProcessing\obj\Release\net8.0\TransferBatchProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno.amaral\source\repos\TransferBatchProcessing\TransferBatchProcessing\obj\Release\net8.0\TransferBatchProcessing.AssemblyInfoInputs.cache
+C:\Users\bruno.amaral\source\repos\TransferBatchProcessing\TransferBatchProcessing\obj\Release\net8.0\TransferBatchProcessing.AssemblyInfo.cs
+C:\Users\bruno.amaral\source\repos\TransferBatchProcessing\TransferBatchProcessing\obj\Release\net8.0\TransferBatchProcessing.csproj.CoreCompileInputs.cache
+C:\Users\bruno.amaral\source\repos\TransferBatchProcessing\TransferBatchProcessing\obj\Release\net8.0\TransferBatchProcessing.dll
+C:\Users\bruno.amaral\source\repos\TransferBatchProcessing\TransferBatchProcessing\obj\Release\net8.0\refint\TransferBatchProcessing.dll
+C:\Users\bruno.amaral\source\repos\TransferBatchProcessing\TransferBatchProcessing\obj\Release\net8.0\TransferBatchProcessing.pdb
+C:\Users\bruno.amaral\source\repos\TransferBatchProcessing\TransferBatchProcessing\obj\Release\net8.0\TransferBatchProcessing.genruntimeconfig.cache
+C:\Users\bruno.amaral\source\repos\TransferBatchProcessing\TransferBatchProcessing\obj\Release\net8.0\ref\TransferBatchProcessing.dll
