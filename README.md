@@ -1,8 +1,4 @@
-````
-```
-TransferBatch Console Application
-````
-```
+# TransferBatch Console Application
 
 ## Overview
 
@@ -49,12 +45,7 @@ A10,T1003,300.00
 ## Running the Application
 
 1. Input the File Path: When prompted, enter the path to your CSV file containing transfer data:
-"########################################"
-"#                                      #"
-"#  Please enter the path to the        #"
-"#  transfers file:                     #"
-"#                                      #"
-"########################################"
+Please enter the path to the transfers file:
 
 2. View the Output: After processing the file, the application outputs the total commission for each account.
 ===> @TransferBatch path/to/your/transfers.csv
