@@ -44,17 +44,17 @@ A10,T1003,300.00
 
 ## Running the Application
 
-1. Input the File Path: When prompted, enter the path to your CSV file containing transfer data:
+1. Input the File Path: When prompted, enter the path to your CSV file containing transfer data:<br>
 Please enter the path to the transfers file:
 
-2. View the Output: After processing the file, the application outputs the total commission for each account.
-===> @TransferBatch path/to/your/transfers.csv
-A10,30
+2. View the Output: After processing the file, the application outputs the total commission for each account.<br>
+===> @TransferBatch path/to/your/transfers.csv<br>
+A10,30<br>
 A11,10
 
 ## Output Explanation
 
-A10,30: Account A10 is charged a total commission of 30.
+A10,30: Account A10 is charged a total commission of 30.<br>
 A11,10: Account A11 is charged a total commission of 10.
 
 ## Handling Errors
