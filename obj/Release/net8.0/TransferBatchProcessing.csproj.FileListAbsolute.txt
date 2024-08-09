@@ -12,3 +12,4 @@ C:\Users\bruno.amaral\source\repos\TransferBatchProcessing\TransferBatchProcessi
 C:\Users\bruno.amaral\source\repos\TransferBatchProcessing\TransferBatchProcessing\obj\Release\net8.0\TransferBatchProcessing.pdb
 C:\Users\bruno.amaral\source\repos\TransferBatchProcessing\TransferBatchProcessing\obj\Release\net8.0\TransferBatchProcessing.genruntimeconfig.cache
 C:\Users\bruno.amaral\source\repos\TransferBatchProcessing\TransferBatchProcessing\obj\Release\net8.0\ref\TransferBatchProcessing.dll
+C:\Users\bruno.amaral\source\repos\TransferBatchProcessing\TransferBatchProcessing\obj\Release\net8.0\TransferBatchProcessing.sourcelink.json

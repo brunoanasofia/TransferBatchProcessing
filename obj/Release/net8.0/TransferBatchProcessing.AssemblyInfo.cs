@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TransferBatchProcessing")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+334a11f13b16adfa7cd17da149e74aee54573b38")]
 [assembly: System.Reflection.AssemblyProductAttribute("TransferBatchProcessing")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TransferBatchProcessing")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
